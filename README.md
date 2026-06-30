@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi, I'm Badr-Eddine 👋
 
-<!--
-**badroben/badroben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer with a 1st Class CS degree and freelance experience building production systems. Currently focused on **modern Android development** — building a series of apps to deepen my skills with Kotlin, Jetpack Compose, and the wider Android architecture stack.
 
-Here are some ideas to get you started:
+I like turning real problems into clean, well-architected software — whether that's a mobile app, a blockchain integration, or something I've had to teach myself from scratch to get the job done.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ What I work with
+
+**Android:** Kotlin · Jetpack Compose · Room · Hilt · MVVM · Coroutines & Flow · Navigation Compose
+
+**Also:** Python · Java · JavaScript · Haskell · MATLAB
+
+**Concepts:** Clean architecture · REST APIs · Blockchain integration · Smart contracts
+
+---
+
+### 💼 Experience
+
+**Freelance Software Engineer** — Remote (Manchester, UK) · Nov 2022 – Jun 2023
+
+- Developed and maintained custom software solutions serving **9,000+ users**
+- Built blockchain-integrated systems using Python, JavaScript, Haskell, Blockfrost, and TangoCrypto
+- Worked directly with clients to gather requirements and ship production-ready features
+- Self-taught blockchain and smart contract development to meet evolving project needs
+
+---
+
+### 📱 What I'm building now
+
+I'm working through a series of Android apps, each focused on a different core concept — local persistence with Room, clean MVVM architecture, and polished Compose UIs. Check my pinned repositories for the latest.
+
+---
+
+### 📫 Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/badr-eddine-benouatas/) · Based in Algeria
