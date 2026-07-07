@@ -1,8 +1,6 @@
-## Hi, I'm Badr-Eddine 👋
+## Hi, I'm Badr-Eddine
 
 Software engineer with a 1st Class CS degree and freelance experience building production systems. Currently focused on **modern Android development** — building a series of apps to deepen my skills with Kotlin, Jetpack Compose, and the wider Android architecture stack.
-
-I like turning real problems into clean, well-architected software — whether that's a mobile app, a blockchain integration, or something I've had to teach myself from scratch to get the job done.
 
 ---
 
